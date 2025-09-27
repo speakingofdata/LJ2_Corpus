@@ -16,16 +16,16 @@ The single speaker's voice is the same as LJ Speech (Linda Johnson, an adult Ame
 
 The first 3 digits designate all files partitioned from a single source text chapter. (Files in the LJ Speech Dataset are named `LJ0##-####.wav`.)
 
-- `wavs1` subdirectory: `LJ1##-####.wav`
-- `wavs2` subdirectory: `LJ2##-####.wav`
-- `wavs3` subdirectory: `LJ3##-####.wav`
-- `wavs4` subdirectory: `LJ4##-####.wav`
+- `/wavs1` subdirectory: `LJ1##-####.wav`
+- `/wavs2` subdirectory: `LJ2##-####.wav`
+- `/wavs3` subdirectory: `LJ3##-####.wav`
+- `/wavs4` subdirectory: `LJ4##-####.wav`
 
 **Segments:**
 
-- 12-hour: `wavs1`
-- 24-hour: `wavs1` + `wavs2`
-- 48-hour: `wavs1` + `wavs2` + `wavs3` + `wavs4`
+- 12-hour: `/wavs1`
+- 24-hour: `/wavs1` + `/wavs2`
+- 48-hour: `/wavs1` + `/wavs2` + `/wavs3` + `/wavs4`
 
 ## Summary Statistics Compared to LJ Speech:
 

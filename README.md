@@ -14,12 +14,12 @@ The single speaker's voice is the same as LJ Speech (Linda Johnson, an adult Ame
 
 **Audio file naming convention:**
 
-The first 3 digits designate all files partitioned from a single source text chapter. (Files in the LJ Speech Dataset are named `LJ0##-####.wav`.)
-
 - `/wavs1` subdirectory: `LJ1##-####.wav`
 - `/wavs2` subdirectory: `LJ2##-####.wav`
 - `/wavs3` subdirectory: `LJ3##-####.wav`
 - `/wavs4` subdirectory: `LJ4##-####.wav`
+
+The first 3 digits designate all files partitioned from a single source text chapter. (Files in the LJ Speech Dataset are named `LJ0##-####.wav`.)
 
 **Segments:**
 
@@ -64,7 +64,7 @@ LJ2 48-hour | 26,200  | 47:51     | 6.58       | 1.11      | 10.10     | 61     
 [5]: <https://github.com/speakingofdata/80_Excerpts> "Access 80 Excerpts Repository"
 
 - Audio recordings:
-	- Audio files can be downloaded from [https://huggingface.co/datasets/speakingofdata/LJ2_Corpus](https://huggingface.co/datasets/speakingofdata/LJ2_Corpus "LJ2 Corpus Hugging Face Repository").
+	- Audio files can be downloaded from [https://huggingface.co/datasets/speakingofdata/LJ2_Corpus/tree/main](https://huggingface.co/datasets/speakingofdata/LJ2_Corpus/tree/main) "LJ2 Corpus Hugging Face Repository Files").
 
 
 

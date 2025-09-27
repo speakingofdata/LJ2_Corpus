@@ -4,11 +4,11 @@
 
 ## Description:
 
-This repository contains a speech corpus in the format of the popular [LJ Speech Dataset][1]. It includes 26,200 audio files, double the size of LJ Speech, with segmentation available in 12-, 24-, and 48-hours. It can be used in combination with LJ Speech to triple its size, compared with LJ Speech, or easily substituted into any model designed to use LJ Speech.
+This repository contains a speech corpus in the format of the popular [LJ Speech Dataset][1]. It includes 26,200 audio files, with segmentation available in 12-, 24-, and 48-hours. It can be used in combination with LJ Speech to triple its size, compared with LJ Speech, or easily substituted into any model designed to use LJ Speech.
 
 [1]: <https://keithito.com/LJ-Speech-Dataset/> "About LJ Speech"
 
-The single speaker's voice is the same as LJ Speech. All texts are public domain nonfiction texts with audio recordings available from [LibriVox.org][2]. Selection decisions were made to maximize variety of subjects and authors, and downsampling reduced terms over-represented in the texts, as compared to modern word frequency.
+The single speaker's voice is the same as LJ Speech (Linda Johnson, an adult American woman). All texts are public domain nonfiction texts with audio recordings available from [LibriVox.org][2]. Selection decisions were made to maximize variety of subjects and authors, and terms over-represented in the texts were downsampled.
 
 [2]: <https://librivox.org/pages/about-librivox/> "About LibriVox"
 

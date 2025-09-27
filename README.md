@@ -64,7 +64,7 @@ LJ2 48-hour | 26,200  | 47:51     | 6.58       | 1.11      | 10.10     | 61     
 [5]: <https://github.com/speakingofdata/80_Excerpts> "Access 80 Excerpts Repository"
 
 - Audio recordings:
-	- Audio files can be downloaded from [https://huggingface.co/datasets/speakingofdata/LJ2_Corpus/tree/main](https://huggingface.co/datasets/speakingofdata/LJ2_Corpus/tree/main)"LJ2 Corpus Hugging Face Repository Files".
+	- Audio files can be downloaded from [https://huggingface.co/datasets/speakingofdata/LJ2_Corpus/tree/main](https://huggingface.co/datasets/speakingofdata/LJ2_Corpus/tree/main"LJ2 Corpus Hugging Face Repository Files").
 
 
 

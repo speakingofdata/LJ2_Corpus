@@ -14,10 +14,14 @@ The single speaker's voice is the same as LJ Speech. All texts are public domain
 
 **Audio file naming convention:**
 
+The first 3 digits designate all files partitioned from a single source text chapter.
+
 	- `wavs1` subdirectory: `LJ1##-####.wav`
 	- `wavs2` subdirectory: `LJ2##-####.wav`
 	- `wavs3` subdirectory: `LJ3##-####.wav`
 	- `wavs4` subdirectory: `LJ4##-####.wav`
+
+(LJ Speech files are named `LJ0##-####.wav`.)
 
 **Segments:**
 
